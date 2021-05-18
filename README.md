@@ -2,7 +2,7 @@
 ### Welcome to my GitHub page.
 
 ### A BIT ABOUT ME:
-I spent the last 10 years of my career as an auditor working for the big four in Japan. Shortly after coming to America I found a hidden passion I never knew existed -- coding! Now, with a few months of practice under my belt, passion unwavered, I'm eager to jump into a this new and exciting profession while building on my decade of experience in the finance sector.
+I spent the last 10 years of my career as an auditor working for the Big Four in Japan. Shortly after coming to America I found a hidden passion I never knew existed -- coding! Now, with a few months of practice under my belt, passion unwavered, I'm eager to jump into a this new and exciting profession while building on my decade of experience in the finance sector.
 
 I found [CodeWars](https://www.codewars.com/users/eri707) to be a great place to practice programming logic. I spend quite a bit of time there nowadays.
 
