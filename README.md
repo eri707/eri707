@@ -10,6 +10,7 @@ I found [CodeWars](https://www.codewars.com/users/eri707) to be a great place to
 <code><img height="25" src="images/html.png"></code>
 <code><img height="25" src="images/css.png"></code>
 <code><img height="25" src="images/javascript.png"></code>
+<code><img height="25" src="images/csharp.png"></code>
 
 ### MY TOOLS
 <code><img height="25" src="images/nodejs.png"></code>
